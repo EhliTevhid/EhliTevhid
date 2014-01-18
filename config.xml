@@ -1,15 +1,14 @@
-
 <?xml version="1.0" encoding="UTF-8"?> 
 <widget xmlns="http://www.w3.org/ns/widgets" 
                 xmlns:gap="http://phonegap.com/ns/1.0" 
-                id="com.pgb.html5video" 
-                version="0.9.5" 
+                id="com.ehlitevhid.forum" 
+                version="1.0.0" 
                 versionCode="1">
     <name>
        EhliTevhid.com
     </name>
     <description>
-        EhliTevhid forumunun Offline mobil versiyasi.
+        EhliTevhid Forumunun Offline Mobil versiyası.
     </description>
 
     <author href="http://www.ehlitevhid.com" email="forum@ehlitevhid.com">
