@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.nitobi.johngarrett" version="1.0">
+<name>EhliTevhid.com</name> 
+<description>
+EhliTEvhid forumunun Offline mobil versiyasi.
+</description> 
+<author href="http://www.ehlitevhid.com" email="forum@ehlitevhid.com">
+Muvahhid Abdullah
+</author> 
+<icon src="icon.png" width="72" height="72" />
+</widget>
